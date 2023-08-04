@@ -27,7 +27,6 @@ function highlightHTMLContent(htmlContent, plainText, plainTextPositions) {
                 while (plainText.charAt(textPosition) === " ") {
                     textPosition++
                 }
-                i--
             }
             if (plainText.charAt(textPosition) === htmlContent.charAt(i)) {
                 if (textPosition === plainTextPositions[index].start) {
