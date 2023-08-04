@@ -1,0 +1,15 @@
+{
+  "name": "assignment-question-2",
+  "version": "1.0.0",
+  "description": "You are required to write a pure JavaScript function called `highlightHTMLContent` that accepts three inputs and returns the expected result. Please follow the instructions below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
